@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fordbroncoshade.com/sitemap.xml
